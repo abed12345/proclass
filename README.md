@@ -1,1 +1,1 @@
-Random projects from when i was learning pyhton in college.
+Random projects from when i was learning pyhton.
