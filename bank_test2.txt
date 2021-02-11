@@ -1,0 +1,52 @@
+Windows PowerShell
+Copyright (C) 2016 Microsoft Corporation. All rights reserved.
+
+PS C:\Users\abedb> cd proclass
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: .01
+It takes 24 years to reach 100,000
+It takes 27 years to reach 1,000,000
+
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 1
+It takes 17 years to reach 100,000
+It takes 20 years to reach 1,000,000
+
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 10
+It takes 14 years to reach 100,000
+It takes 17 years to reach 1,000,000
+
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 100
+It takes 10 years to reach 100,000
+It takes 14 years to reach 1,000,000
+
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 500
+It takes 8 years to reach 100,000
+It takes 11 years to reach 1,000,000
+
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 1000
+It takes 7 years to reach 100,000
+It takes 10 years to reach 1,000,000
+
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 100000
+It takes 0 years to reach 100,000
+It takes 4 years to reach 1,000,000
+
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 1000000
+It takes 0 years to reach 1,000,000
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 1500
+It takes 7 years to reach 100,000
+It takes 10 years to reach 1,000,000
+
+PS C:\Users\abedb\proclass> python bank.py
+Enter starting balance: 85
+It takes 11 years to reach 100,000
+It takes 14 years to reach 1,000,000
+PS C:\Users\abedb\proclass>

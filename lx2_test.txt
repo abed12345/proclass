@@ -1,0 +1,14 @@
+PS C:\Users\abedb\proclass> python lx2.py
+TOKEN:  start , LEXEME: start
+TOKEN:  identifer , LEXEME: i
+TOKEN:  equals , LEXEME: =
+TOKEN:  number , LEXEME: 19
+TOKEN:  identifer , LEXEME: j
+TOKEN:  equals , LEXEME: =
+TOKEN:  identifer , LEXEME: i
+TOKEN:  prints , LEXEME: print
+TOKEN:  leftCol , LEXEME: (
+TOKEN:  identifer , LEXEME: j
+TOKEN:  rightCol , LEXEME: )
+TOKEN:  end , LEXEME: end
+PS C:\Users\abedb\proclass>

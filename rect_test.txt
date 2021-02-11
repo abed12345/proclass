@@ -1,0 +1,4 @@
+PS C:\Users\abedb\proclass> python rect.py
+Rectangle: 6 x 10
+Square: 10 x 10
+PS C:\Users\abedb\proclass>

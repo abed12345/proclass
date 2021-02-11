@@ -1,0 +1,27 @@
+PS C:\Users\abedb\proclass> python pay.py
+Number of employees: 2
+
+PROFILE FOR EMPLOYEE #0
+type Hourly(1), Salaried(2), Salaried plus Commission(3)
+Enter 1, 2, or 3 ==> 2
+
+
+Name ==> bill
+Social security number ==> 6
+Salary ==> 1500
+PROFILE FOR EMPLOYEE #1
+type Hourly(1), Salaried(2), Salaried plus Commission(3)
+Enter 1, 2, or 3 ==> 2
+
+
+Name ==> jon
+Social security number ==> 7
+Salary ==> 450
+PAYCHECK REPORT:
+employee: bill
+social security number: 6
+paycheck: 1000
+employee: jon
+social security number: 7
+paycheck: 450
+PS C:\Users\abedb\proclass>

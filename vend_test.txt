@@ -1,0 +1,50 @@
+PS C:\Users\abedb\proclass> python vend.py
+Welcome to Abed's vending machine!
+
+Options: (i)nsert money, (s)elect an item, (q)uit
+Enter i, s, or q ==> I
+Amount of money inserted: 5
+
+Options: (i)nsert money, (s)elect an item, (q)uit
+Enter i, s, or q ==> s
+Selected item's price: 2.94
+Your change is
+8 quarter(s)
+0 dime(s)
+1 nickle(s)
+1 penny(ies)
+
+Options: (i)nsert money, (s)elect an item, (q)uit
+Enter i, s, or q ==> x
+Invalid selection.
+
+Options: (i)nsert money, (s)elect an item, (q)uit
+Enter i, s, or q ==> S
+Sorry, you can't select, since you haven't inserted money yet
+
+Options: (i)nsert money, (s)elect an item, (q)uit
+Enter i, s, or q ==> i
+Amount of money inserted: 1
+
+Options: (i)nsert money, (s)elect an item, (q)uit
+Enter i, s, or q ==> i
+Amount of money inserted: 0
+Invalid payment. Must enter a positive number.
+Amount of money inserted: .25
+
+Options: (i)nsert money, (s)elect an item, (q)uit
+Enter i, s, or q ==> s
+Selected item's price: 1.5
+Invalid selection. Price exceeds payment.
+Selected item's price: 0
+Invalid price. Must enter a positive number
+Selected item's price: .13
+Your change is
+0 quarter(s)
+1 dime(s)
+0 nickle(s)
+2 penny(ies)
+
+Options: (i)nsert money, (s)elect an item, (q)uit
+Enter i, s, or q ==> q
+PS C:\Users\abedb\proclass>

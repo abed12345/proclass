@@ -1,0 +1,7 @@
+PS C:\Users\abedb\proclass> python parse.py
+Start function ==: start
+Assignment statement(s) ==: i = 19
+Assignment statement(s) ==: j = i
+Output statement ==: print ( j )
+End function ==: end
+PS C:\Users\abedb\proclass>

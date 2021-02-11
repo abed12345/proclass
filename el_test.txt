@@ -1,0 +1,29 @@
+PS C:\Users\abedb\proclass> python el2.py
+Welcome to Abed's elevator simulator!
+
+Options: (s)elect a floor, (f)ire alarm, (q)uit
+Enter s, f, or q ==> x
+Invalid selection.
+
+Options: (s)elect a floor, (f)ire alarm, (q)uit
+Enter s, f, or q ==> F
+Danger! You must exit the building now!
+
+Options: (s)elect a floor, (f)ire alarm, (q)uit
+Enter s, f, or q ==> s
+Enter the floor that you'd like to go to ==> 102
+Invalid floor selection - must be between 1 and 100, excluding 13.
+Enter the floor that you'd like to go to ==> 15
+going up 1 ... 2 ... 3 ... 4 ... 5 ... 6 ... 7 ... 8 ... 9 ... 10 ... 11 ... 12 ... 14 ... 15 ...  ding
+Options: (s)elect a floor, (f)ire alarm, (q)uit
+Enter s, f, or q ==> s
+Enter the floor that you'd like to go to ==> 10
+going down 15 ... 14 ... 12 ... 11 ... 10 ... ding
+
+Options: (s)elect a floor, (f)ire alarm, (q)uit
+Enter s, f, or q ==> f
+Danger! You must exit the building now!
+going down 10 ... 9 ... 8 ... 7 ... 6 ... 5 ... 4 ... 3 ... 2... 1... ding
+Options: (s)elect a floor, (f)ire alarm, (q)uit
+Enter s, f, or q ==> q
+PS C:\Users\abedb\proclass>
